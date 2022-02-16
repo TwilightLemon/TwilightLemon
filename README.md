@@ -1,19 +1,14 @@
-### Hi there 👋
-I am a student from Lincang No.1 Senior High School.
-I picked up some skills like coding,roller-skating and cooking some snacks(although sometimes they were terrible hahhh).
-####
-[![HitCount](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App.svg)](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App)
-
-#### 🔭 I’m currently working on ...
+## Hi there 👋  [![HitCount](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App.svg)](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App)
+ - 🔭 working on ...
      Studying hard at school..
      some fixing tasks of my own apps..(thought i have little time to do that.)
-#### 💬 Ask me about ...
+ - 💬 Ask me about ...
      curious about WPF\.NET  Java/Android Dev...
-#### 📫 How to reach me?
+ - 📫 How to reach me?
      QQ:0xA2A2CF8C TwilightLemon
      Email:admin@twlm.tk
      Cnblogs and TWLM.TK are no longer to be updated within 2 years perhaps..
-#### 😄 Interests
+ - 😄 Interests
      Studying delights me.
      Roller-skating and cooking are of great fun.
 
