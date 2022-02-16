@@ -1,16 +1,25 @@
 ### Hi there 👋
+I am a student from Lincang No.1 Senior High School.
+I picked up some skills like coding,roller-skating and cooking some snacks(although sometimes they were terrible hahhh).
+####
+[![HitCount](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App.svg)](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App)
 
-<!--
-**TwilightLemon/TwilightLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 I’m currently working on ...
+     Studying hard at school..
+     some fixing tasks of my own apps..(thought i have little time to do that.)
+#### 💬 Ask me about ...
+     curious about WPF\.NET  Java/Android Dev...
+#### 📫 How to reach me?
+     QQ:0xA2A2CF8C TwilightLemon
+     Email:admin@twlm.tk
+     Cnblogs and TWLM.TK are no longer to be updated within 2 years perhaps..
+#### 😄 Interests
+     Studying delights me.
+     Roller-skating and cooking are of great fun.
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TwilightLemon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwilightLemon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚡ Top Apps
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LemonCodeTeam&repo=Lemon-App)](https://github.com/LemonCodeTeam/Lemon-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LemonCodeTeam&repo=LemonAppForAndroid)](https://github.com/LemonCodeTeam/LemonAppForAndroid)
