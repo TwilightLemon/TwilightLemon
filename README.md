@@ -1,3 +1,5 @@
+#公告
+本人因备战高考，所有项目暂停更新，所有在线联系方式基本不上线。这将持续到今年6月中下旬。
 ## Hi there 👋  [![HitCount](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App.svg)](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App)
  - 🔭 working on ...  
      Studying hard at school..  
