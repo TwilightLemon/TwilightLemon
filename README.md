@@ -1,13 +1,15 @@
 ## Hi there 👋  [![HitCount](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App.svg)](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App)
  - 🔭 working on ...  
-     Studying hard at school..  
+     Studying hard at UESTC... aiming for a more promising future.
      some fixing tasks of my own apps..(thought i have little time to do that.)
  - 💬 Ask me about ...  
      curious about WPF\.NET  Java/Android Dev...
- - 📫 How to reach me?  
+ - 📫 How to reach me?
+     never forget i am a cat. u'd know how to talk with cats.
+     when we cats rushing to come,no one would remain alive..meow
      QQ:0xA2A2CF8C TwilightLemon  
-     Email:admin@twlm.tk  
-     Cnblogs and TWLM.TK are no longer to be updated within 2 years perhaps..
+     Email:admin@twlm.space
+     Website:https://twlm.space
  - 😄 Interests  
      Studying delights me.  
      Roller-skating and cooking are of great fun.  
