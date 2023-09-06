@@ -20,3 +20,8 @@
 #### ⚡ Top Apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LemonCodeTeam&repo=Lemon-App)](https://github.com/LemonCodeTeam/Lemon-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LemonCodeTeam&repo=LemonAppForAndroid)](https://github.com/LemonCodeTeam/LemonAppForAndroid)
+#### 💫 Rewards
+ - 2022年全国中学生生物学竞赛 二等奖、化学 一等奖
+ - 2022年全国青少年创新编程大赛 二等奖
+ - 2021年全国青少年科技影像节 省级二等奖 全国优秀奖
+ - ...more
