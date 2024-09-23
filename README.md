@@ -1,4 +1,4 @@
-## Hi there 👋  [![HitCount](http://hits.dwyl.com/TwilightLemon/TwilightLemon/Lemon-App.svg)]()
+## Hi there 👋
  - 🔭 working on ...  
      Studying hard at UESTC... aiming for a more promising future.  
      some tasks of my own apps..(thought i have little time to do that.)
@@ -15,12 +15,14 @@
      Studying delights me.  
      Roller-skating and cooking are of great fun.  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TwilightLemon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwilightLemon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### ⚡ Top Apps&Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LemonCodeTeam&repo=Lemon-App)](https://github.com/LemonCodeTeam/Lemon-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TwilightLemon&repo=GobangCat)](https://github.com/TwilightLemon/GobangCat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TwilightLemon&repo=MyToolBar)](https://github.com/TwilightLemon/MyToolBar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TwilightLemon&repo=SunnyDays)](https://github.com/TwilightLemon/SunnyDays)
+
 #### 💫 Rewards
  - 2022年全国中学生生物学竞赛 二等奖、化学 一等奖
  - 2022年全国青少年创新编程大赛 二等奖
