@@ -1,3 +1,4 @@
+# ⚠ This author has switched to liberal arts, seldom involved in development.
 ## Hi there 👋
  - 🔭 working on ...
      - Modern cryptography research
