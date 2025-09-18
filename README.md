@@ -1,15 +1,14 @@
-# ⚠ This author has switched to liberal arts, seldom involved in development.
 ## Hi there 👋
- - 🔭 working on ...
+ - 🔭 Working on ...
      - Modern cryptography research
-     - Studying hard at UESTC... aiming for a more promising future.  
-     - Some tasks of my own apps..(thought i have little time to do that.)
+     - Studying hard at UESTC... aiming for a more promising future  
+     - Some tasks of my own apps..(althought i have little time to do that. XD)
+     - Building a living through flexible and gig work
+
  - 💬 Ask me about ...  
-     Curious about WPF \\ C# \\ .NET  ~~Java/Android~~  C++(a little bit) Development.
+     Curious about Avalonia \\ WPF \\ C# \\ .NET \\ ASP.NET CORE \\  ~~Java/Android~~ \\  C++(a little bit) Development.
      
  - 📫 How to reach me?  
-     Never forget i am a cat. u'd know how to talk with cats.  
-     When we cats rushing to come, no one would remain alive... meow. 🐱  
      QQ: ```echo "MjcyODU3ODk1Ngo=" | base64 -d``` TwilightLemon  
      Email: cz241126@live.com  
      Blog: https://blog.twlmgatito.cn/
@@ -28,6 +27,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TwilightLemon&repo=SunnyDays)](https://github.com/TwilightLemon/SunnyDays)
 
 #### 💫 Rewards
+ - 2025 Yak图灵奖学金
+ - 2024 UESTC 优秀学生奖学金
  - 2022年全国中学生生物学竞赛 二等奖、化学 一等奖
  - 2022年全国青少年创新编程大赛 二等奖
  - 2021年全国青少年科技影像节 省级二等奖 全国优秀奖
